@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    pg,
+    re,
+    fl,
   } from "../assets";
   
   export const navLinks = [
@@ -50,11 +53,11 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Unity Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Content Creation",
       icon: creator,
     },
   ];
@@ -116,55 +119,39 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Staff & Marketing Manager",
+      company_name: "Pizza Guys Co.",
+      icon: pg,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "July 2018 - Jan 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participated in slightly developing the POS system.",
+        "Used Spreadsheets to keep track of data; sales and current inventory.",
+        "Reviewed company website to make sure it was responsive.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Real Estate Agent",
+      company_name: "Cheetah",
+      icon: re,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "August 2020 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining relationships that have to do with Real Estate.",
+        "Managed a team, built team website, and handle the entire team's transaction.",
+        "Implementing responsive design for team website.",
       ],
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      company_name: "Freelance",
+      icon: fl,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Develop commissioned web applications using Javascript and its analogous frameworks.",
+        "Colaboration with Designers as well as clients to deliver correct product.",
+        "Ensure the commissioned websites have responsive designs suitable for smaller devices.",
       ],
     },
   ];
