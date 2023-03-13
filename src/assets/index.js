@@ -32,6 +32,7 @@ import fl from "./company/fl.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import sacre from "./SACRE.png";
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   jobit,
   tripguide,
   fl,
+  sacre,
 };
