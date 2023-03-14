@@ -160,27 +160,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "I thought it was impossible to make a website as amazing as our team, but John proved me wrong.",
+      name: "Duke Vang",
+      designation: "CEO",
+      company: "Sac Real Estate Group",
+      image: "https://sacrealestate.ca/wp-content/uploads/elementor/thumbs/DukeVangRealEstateAgent-6-scaled-q0c8qe559mf62e2xyr3vlp73wyc3by5yddppbz7f9c.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "I've never met a web developer who tends to their clients' success like John does.",
+      name: "Andrew Lee",
+      designation: "CEO",
+      company: "Capital's Finest",
+      image: "https://sacrealestate.ca/wp-content/uploads/2023/03/portrait-1-scaled.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Click funnels and lead generation. Business would not be possible without John!",
+      name: "Paul Lee",
+      designation: "Real Estate Agent",
+      company: "Cheetah",
+      image: "https://sacrealestate.ca/wp-content/uploads/elementor/thumbs/PaulLeeRealEstateAgent-scaled-q0c8xuyzk8n6av8gczb6etcxt5j2hdt6qcakl44tts.jpg",
     },
   ];
   
