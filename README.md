@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
     Clone this repository to your local machine:
 
-    git clone https://github.com/your-username/react-3d-website.git
+    git clone https://github.com/JSDWRLD/ReactPortfolio.git
 
 Install dependencies using npm:
 
